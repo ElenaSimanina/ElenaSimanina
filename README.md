@@ -28,7 +28,7 @@
  
     ### Портфолио :
    -  [Тестирование интернет-магазина](https://github.com/ElenaSimanina/qa-engineer-project-84)
-   -  [Тестирование в продакшене](https://github.com/ElenaSimanina/qa-engineer-project-85)
+   -  [Тестирование в  продакшен](https://github.com/ElenaSimanina/qa-engineer-project-85)
  
     ### Мое резюме :
     ### :hammer_and_wrench: Languages and Tools :

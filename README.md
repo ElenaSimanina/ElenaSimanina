@@ -27,6 +27,7 @@
   - [Телеграмм](https://t.me/jjjKlepajjj)
  
     ### Портфолио :
+    [Тестирование интернет-магазина](https://github.com/ElenaSimanina/qa-engineer-project-84)
  
     ### Мое резюме :
     ### :hammer_and_wrench: Languages and Tools :

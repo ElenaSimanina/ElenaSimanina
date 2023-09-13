@@ -25,6 +25,10 @@
   - ✉Как со мной связаться:
   - [Электронная почта](elenasimanina1978@gmail.com)
   - [Телеграмм](https://t.me/jjjKlepajjj)
+ 
+    ### Портфолио :
+ 
+    ### Мое резюме :
     ### :hammer_and_wrench: Languages and Tools :
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;

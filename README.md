@@ -17,9 +17,9 @@
 
 ### :woman_technologist: Обо мне :
 
- 👋 Привет, я Елена!
+ 👋 Привет, меня зовут Елена! Я начинающий QA - инженер.
  
-- На данный момент ищу стажировку/работу на должность Junior тестировщик QA 
+- Ищу работу/стажировку на должность "Junior-тестировщик".
 - Закончила обучение на платформе Hexlet.
   - 🏡 Я живу в Ульяновске
   - ✉Как со мной связаться:
@@ -32,11 +32,22 @@
  
       ### Мое резюме :
    - [Хабр Карьера](https://career.habr.com/elenasimanina)
+   - [HexletCV](https://cv.hexlet.io/ru/resumes/2902)
     ### :hammer_and_wrench:  Tools :
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  width="40" height="40"/>&nbsp;
    </div>
+   
+   * Тестирование сайтов 
+   • Ручное тестирование 
+   • Разработка тест-кейсов
+   * Отчеты об ошибках
+   * Регрессионное тестирование
+   • Тестирование ПО 
+   • Postman 
+   • SQL 
+   • GitHub
   
 

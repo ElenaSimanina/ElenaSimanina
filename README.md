@@ -17,12 +17,10 @@
 
 ### :woman_technologist: Обо мне :
 
- 👋Меня зовут Елена! Я начинающий QA - инженер.
- 
-- Ищу работу/стажировку на должность "Junior-тестировщик".
-- Закончила обучение на платформе Hexlet.
-  - 🏡 Я живу в Ульяновске
-  - ✉Как со мной связаться:
+***👋Меня зовут Елена! Я начинающий QA - инженер.***
+ - Закончила обучение на платформе Hexlet, и теперь ищу работу/стажировку на должность "Junior-тестировщик".
+
+    ***✉Как со мной связаться:***
   - [Электронная почта](elenasimanina1978@gmail.com)
   - [Телеграмм](https://t.me/jjjKlepajjj)
  
@@ -33,8 +31,10 @@
       ### Мое резюме :
    - [Хабр Карьера](https://career.habr.com/elenasimanina)
    - [HexletCV](https://cv.hexlet.io/ru/resumes/2902)
-    ### :hammer_and_wrench:  Tools :
-    <div>
+
+   -  ### :hammer_and_wrench:  Tools :
+  
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  width="40" height="40"/>&nbsp;

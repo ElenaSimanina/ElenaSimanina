@@ -21,15 +21,15 @@
 ***I completed my training on the Hexlet platform, and now I’m looking for a job/internship for the position of “Junior Tester"***
  
  ###  Contact-me
-  - [Электронная почта](elenasimanina1978@gmail.com)
-  - [Телеграмм](https://t.me/jjjKlepajjj)
+  - [Email](elenasimanina1978@gmail.com)
+  - [Telegram](https://t.me/jjjKlepajjj)
  
 ### Portfolio
    -  [Тестирование интернет-магазина](https://github.com/ElenaSimanina/qa-engineer-project-84)
    -  [Тестирование в  продакшен](https://github.com/ElenaSimanina/qa-engineer-project-85)
  
 ### My-cv
-   - [Хабр Карьера](https://career.habr.com/elenasimanina)
+   - [Habr Career](https://career.habr.com/elenasimanina)
    - [HexletCV](https://cv.hexlet.io/ru/resumes/2902)
 
 ### Tools and skills 

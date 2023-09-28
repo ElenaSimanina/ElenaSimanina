@@ -24,7 +24,7 @@
   - [Электронная почта](elenasimanina1978@gmail.com)
   - [Телеграмм](https://t.me/jjjKlepajjj)
  
-### Portfolio 
+### Portfolio
    -  [Тестирование интернет-магазина](https://github.com/ElenaSimanina/qa-engineer-project-84)
    -  [Тестирование в  продакшен](https://github.com/ElenaSimanina/qa-engineer-project-85)
  

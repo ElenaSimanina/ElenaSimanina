@@ -15,24 +15,26 @@
 
  
 
-### :woman_technologist: Обо мне :
+## About me :
 
-***Меня зовут Елена! Я начинающий QA - инженер.***
- - Закончила обучение на платформе Hexlet, и теперь ищу работу/стажировку на должность "Junior-тестировщик".
-
-    ***✉Как со мной связаться:***
+***My name is Elena! I am a beginner QA engineer.***
+***I completed my training on the Hexlet platform, and now I’m looking for a job/internship for the position of “Junior Tester"***
+ 
+ ###  Contact-me
   - [Электронная почта](elenasimanina1978@gmail.com)
   - [Телеграмм](https://t.me/jjjKlepajjj)
  
-    ### Портфолио: 
+### Portfolio 
    -  [Тестирование интернет-магазина](https://github.com/ElenaSimanina/qa-engineer-project-84)
    -  [Тестирование в  продакшен](https://github.com/ElenaSimanina/qa-engineer-project-85)
  
-      ### Мое резюме: 
+### My-cv
    - [Хабр Карьера](https://career.habr.com/elenasimanina)
    - [HexletCV](https://cv.hexlet.io/ru/resumes/2902)
 
-   -  ### :hammer_and_wrench:  Tools and skills 
+### Tools and skills 
+
+
   
 <div id="badges">
   <img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL Badge"/>
@@ -43,8 +45,11 @@
    <img src="https://img.shields.io/badge/Bug reports-green?style=for-the-badge&logo=Bug reports&logoColor=white" alt="Bug reports Badge"/>
   <img src="https://img.shields.io/badge/Chrome DevTools-orange?style=for-the-badge&logo=Chrome DevTools&logoColor=white" alt="Chrome DevTools Badge"/>
   <img src="https://img.shields.io/badge/test cases-blue?style=for-the-badge&logo=test cases&logoColor=white" alt="test cases Badge"/>
+  </div>
   
-  
-</div>
+  ### [Github statistics](https://github.com/ElenaSimanina#github-stats)
+
   
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaSimanina&theme=default)

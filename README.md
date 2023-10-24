@@ -25,7 +25,7 @@
   - [Telegram](https://t.me/jjjKlepajjj)
  
 ### Portfolio
-   -  [Тестирование интернет-магазина](https://github.com/ElenaSimanina/qa-engineer-project-84)
+   -  [Online-store-testing](https://github.com/ElenaSimanina/qa-engineer-project-84)
    -  [Тестирование в  продакшен](https://github.com/ElenaSimanina/qa-engineer-project-85)
  
 ### My-cv

@@ -26,7 +26,7 @@
  
 ### Portfolio
    -  [Online-store-testing](https://github.com/ElenaSimanina/qa-engineer-project-84)
-   -  [Тестирование в  продакшен](https://github.com/ElenaSimanina/qa-engineer-project-85)
+   -  [Testing-in-production](https://github.com/ElenaSimanina/qa-engineer-project-85)
  
 ### My-cv
    - [Habr Career](https://career.habr.com/elenasimanina)

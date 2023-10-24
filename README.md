@@ -23,19 +23,14 @@
  ###  Contact-me
   - [Email](elenasimanina1978@gmail.com)
   - [Telegram](https://t.me/jjjKlepajjj)
- 
 ### Portfolio
    -  [Online-store-testing](https://github.com/ElenaSimanina/qa-engineer-project-84)
    -  [Testing-in-production](https://github.com/ElenaSimanina/qa-engineer-project-85)
- 
 ### My-cv
    - [Habr Career](https://career.habr.com/elenasimanina)
    - [HexletCV](https://cv.hexlet.io/ru/resumes/2902)
-
 ### Tools and skills 
 
-
-  
 <div id="badges">
   <img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/>

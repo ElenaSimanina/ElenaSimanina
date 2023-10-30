@@ -15,10 +15,10 @@
 
  
 
-## About me :
+## About me : 
 
 ***My name is Elena! I am a beginner QA engineer.***
-***I completed my training on the Hexlet platform, and now I’m looking for a job/internship for the position of “Junior Tester"***
+***I have completed my training on the Hexlet platform and I am currently looking for a job/internship as a Junior Tester"***
  
  ###  Contact-me
   - [Email](elenasimanina1978@gmail.com)

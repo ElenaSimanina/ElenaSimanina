@@ -21,7 +21,7 @@
 ***I have completed my training on the Hexlet platform and I am currently looking for a job/internship as a Junior Tester"***
  
  ###  Contact-me
-  - [Email](elenasimanina1978@gmail.com)
+  - Gmail elenasimanina1978@gmail.com
   - [Telegram](https://t.me/jjjKlepajjj)
 ### Portfolio
    -  [Online-store-testing](https://github.com/ElenaSimanina/qa-engineer-project-84)
